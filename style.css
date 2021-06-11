@@ -239,3 +239,7 @@ ul {
 .copyright {
     text-align: center;
 }
+.menu-icon {
+    width: 28px;
+    margin-left: 20px;
+}

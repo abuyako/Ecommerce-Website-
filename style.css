@@ -322,6 +322,15 @@ input:focus {
     cursor: pointer;
 }
 
+/* cart items  */
+
+.cart-page {
+    margin: 80px;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
 
 
 

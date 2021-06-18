@@ -376,7 +376,11 @@ th:last-child {
     text-align: right;
 }
 
-
+/* account page  */
+.account-page {
+    padding: 50px 0;
+    background: radial-gradient(#fff,#ffd6d6);
+}
 
 
 
